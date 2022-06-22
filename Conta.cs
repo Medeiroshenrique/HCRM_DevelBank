@@ -36,7 +36,10 @@
         _balance+=DepositValue;
     }
     public void Withdraw(double WithdrawValue)
-    {
-        _balance -= WithdrawValue;
+    {if (WithdrawValue != 0) {
+            _balance -= (WithdrawValue + 5);
+        }
+        else {}
+        
     }
 }
