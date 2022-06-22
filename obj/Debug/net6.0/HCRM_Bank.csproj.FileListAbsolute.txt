@@ -1,0 +1,15 @@
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\bin\Debug\net6.0\HCRM_Bank.exe
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\bin\Debug\net6.0\HCRM_Bank.deps.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\bin\Debug\net6.0\HCRM_Bank.runtimeconfig.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\bin\Debug\net6.0\HCRM_Bank.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\bin\Debug\net6.0\HCRM_Bank.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.csproj.AssemblyReference.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.AssemblyInfoInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.AssemblyInfo.cs
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.csproj.CoreCompileInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\refint\HCRM_Bank.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\HCRM_Bank.genruntimeconfig.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\HCRM_Bank\obj\Debug\net6.0\ref\HCRM_Bank.dll
