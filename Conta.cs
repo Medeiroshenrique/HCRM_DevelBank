@@ -31,12 +31,12 @@
             _balance = _initialDeposit;
         }
     }
-    void Deposit(double DepositValue)
+    public void Deposit(double DepositValue)
     {
         _balance+=DepositValue;
     }
-    void Withdraw(double DepositValue)
+    public void Withdraw(double WithdrawValue)
     {
-        _balance -= DepositValue;
+        _balance -= WithdrawValue;
     }
 }
