@@ -4,6 +4,7 @@
     private string _userName;
     private double _balance;
     private double _initialDeposit;
+    private string _password;
     public int NumAccount
     {
         get { return _numAccount; }
@@ -28,7 +29,7 @@
     {
         get { return _initialDeposit; }
         set { _initialDeposit = value;
-            _balance = _initialDeposit;
+            Deposit(_initialDeposit);
         }
     }
     public void Deposit(double DepositValue)
@@ -42,4 +43,9 @@
         else {}
         
     }
+    public void Password(string password) {
+        if (password!=null && password.Length>7){
+            _password = password;
+        }
+        }
 }
